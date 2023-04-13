@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641061932223-vpj8mfbjcamv85rll789ajge48ncdssn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641061932223-vpj8mfbjcamv85rll789ajge48ncdssn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>641061932223-ujkpbsgpi9r3il50dl51gd1tm326n5tc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcGu1BfSbFBr7lIcsv9TZmgf1KgUF5kJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641061932223</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rearden-metals.bevis</string>
+	<key>PROJECT_ID</key>
+	<string>api-7797873669077105891-707835</string>
+	<key>STORAGE_BUCKET</key>
+	<string>api-7797873669077105891-707835.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641061932223:ios:9b1486ec3ac322ef198a0a</string>
+	<key>DATABASE_URL</key>
+	<string>https://api-7797873669077105891-707835.firebaseio.com</string>
+</dict>
+</plist>

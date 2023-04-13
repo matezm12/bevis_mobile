@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641061932223",
+    "firebase_url": "https://api-7797873669077105891-707835.firebaseio.com",
+    "project_id": "api-7797873669077105891-707835",
+    "storage_bucket": "api-7797873669077105891-707835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641061932223:android:daabd1d327c67f34198a0a",
+        "android_client_info": {
+          "package_name": "com.rearden_metals.bevis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641061932223-soab6b97mae2fannibt2rfqtajhk187f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByO5txuH-Vr94wi6oP1JfT9aIFwa5P378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641061932223-soab6b97mae2fannibt2rfqtajhk187f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

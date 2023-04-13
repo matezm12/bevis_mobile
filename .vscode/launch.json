@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BEVIS Prod",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/app/main_prod.dart"
+        },
+        {
+            "name": "BEVIS dev",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/app/main_dev.dart"
+        },
+        {
+            "name": "BEVIS MAIN",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+            // "args": [
+            //     "--web-port=3000",
+            // ],
+        },
+    ]
+}
